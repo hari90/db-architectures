@@ -7,6 +7,7 @@ A collection of architecture designs of the major databases.
 - [Amazon Redshift](https://assets.amazon.science/93/e0/a347021a4c6fbbccd5a056580d00/sigmod22-redshift-reinvented.pdf)
 - [Apache Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 - [Apache Spark](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf)
+- [Citus](https://docs.citusdata.com/en/stable/get_started/concepts.html)
 - [CockroachDB](https://www.cockroachlabs.com/docs/stable/architecture/overview)
 - [Databricks](https://docs.databricks.com/en/getting-started/overview.html)
 - [Datomic](https://docs.datomic.com/datomic-overview.html)
