@@ -9,6 +9,7 @@ A collection of architecture designs of the major databases.
 - [Apache Spark](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf)
 - [CockroachDB](https://www.cockroachlabs.com/docs/stable/architecture/overview)
 - [Databricks](https://docs.databricks.com/en/getting-started/overview.html)
+- [Datomic](https://docs.datomic.com/datomic-overview.html)
 - [DuckDB](https://duckdb.org/docs/internals/overview.html)
 - [FoundationDB](https://www.foundationdb.org/files/fdb-paper.pdf)
 - [Google BigQuery](https://cloud.google.com/blog/products/data-analytics/new-blog-series-bigquery-explained-overview)
