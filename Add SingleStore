@@ -29,6 +29,7 @@ A collection of architecture designs of the major databases.
 - [Redis](https://architecturenotes.co/p/redis)
 - [RocksDB](https://github.com/facebook/rocksdb/wiki/RocksDB-Overview)
 - [ScyllaDB](https://www.scylladb.com/product/technology/)
+- [SingleStore](https://docs.singlestore.com/db/v8.9/introduction/distributed-architecture/)
 - [Snowflake](https://docs.snowflake.com/en/user-guide/intro-key-concepts)
 - [SQLite](https://www.sqlite.org/arch.html)
 - [TiDB](https://docs.pingcap.com/tidb/stable/tidb-architecture)
